@@ -1,0 +1,13 @@
+---
+title: "A_website_by_AmberPan"
+---
+
+Hi, my name is Xinyue Pan! I’m a third year student at the University of Toronto studying Statistics (major).
+
+Welcome to my website!
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+"Welcome!"
+```
